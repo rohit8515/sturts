@@ -1,0 +1,2 @@
+# sturts
+Struts application
